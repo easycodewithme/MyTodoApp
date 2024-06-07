@@ -15,7 +15,7 @@ Created Nodejs app for Todo list
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshot 2024-06-07 221151.png)
 
 
 ## 🔗 Links
