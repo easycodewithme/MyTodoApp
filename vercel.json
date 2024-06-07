@@ -1,6 +1,6 @@
 {
    "version": 2,
-   "name": "MyTodoApp",
+   "name": "Project0",
    "builds": [
       { "src": "index.js", "use": "@vercel/node" }
    ],
