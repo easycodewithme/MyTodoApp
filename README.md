@@ -15,7 +15,7 @@ Created Nodejs app for Todo list
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=todoimg2.png)
+![App Screenshot](https://github.com/easycodewithme/MyTodoApp/blob/main/todoimg.png)
 
 
 ## 🔗 Links
